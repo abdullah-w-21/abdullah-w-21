@@ -16,9 +16,13 @@ I'm a Agentic AI focus Generative AI Engineer passionate about building intellig
 
 ## 🛠️ Tech Stack
 
-### AI & Automation
+### Agentic AI & Automation
 ![CrewAI](https://img.shields.io/badge/CrewAI-000000.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADASURBVHgBjZLNDYJAEIXfLgUQOtAOxA6wBDvQErQD7UA6wA6kA+xAOoAOeB8ha9Yf4r7kZWd35ptJZhbIRIaX5ZaXxUzLYz/VwkSMG8wLu4XumGDEwKuXGHuVxS3a7lGRB9LZnFGuJukqex3ZYBkv+Ii3RDJBiFQbyGKEOO8wmOBH5+mQvENEDGiL+MRGSSsUoJ+W4AbYH6SNGrxJ2D8Onlfl0loFviS4A9ZxT8H+9Gyw6FC6yFb/+cJHvwb8vJMVBek4zvgv+gV/RnwZJruL0QAAAABJRU5ErkJggg==)
 ![n8n](https://img.shields.io/badge/n8n-121D33.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADASURBVHgBjZLNDYJAEIXfLgUQOtAOxA6wBDvQErQD7UA6wA6kA+xAOoAOeB8ha9Yf4r7kZWd35ptJZhbIRIaX5ZaXxUzLYz/VwkSMG8wLu4XumGDEwKuXGHuVxS3a7lGRB9LZnFGuJukqex3ZYBkv+Ii3RDJBiFQbyGKEOO8wmOBH5+mQvENEDGiL+MRGSSsUoJ+W4AbYH6SNGrxJ2D8Onlfl0loFviS4A9ZxT8H+9Gyw6FC6yFb/+cJHvwb8vJMVBek4zvgv+gV/RnwZJruL0QAAAABJRU5ErkJggg==)
+![AutoGen](https://img.shields.io/badge/AutoGen-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNGRkZGRkYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW5kPSJyb3VuZCI+PHBhdGggZD0iTTEyIDV2MTRNNSAxMmgxNE01IDV2MTRoMTRWNUg1eiIvPjwvc3ZnPg==&logoColor=white)
+![Swarm](https://img.shields.io/badge/Swarm-FFA000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNGRkZGRkYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW5kPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMyIvPjxwYXRoIGQ9Ik0xOSA4YTcgNyAwIDEgMC0xNCAwIi8+PC9zdmc+&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNGRkZGRkYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW5kPSJyb3VuZCI+PHBhdGggZD0iTTQgNGgyME00IDEyaDIwTTQgMjBoMjAiLz48L3N2Zz4=&logoColor=white)
+![Flowise](https://img.shields.io/badge/Flowise-3ECF8E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNGRkZGRkYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW5kPSJyb3VuZCI+PHBhdGggZD0iTTEyIDJ2MjBNMiAxMmgyME02IDZoMTJ2MTJINnoiLz48L3N2Zz4=&logoColor=white)
 
 ### AI & Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -27,6 +31,11 @@ I'm a Agentic AI focus Generative AI Engineer passionate about building intellig
 ![LangChain](https://img.shields.io/badge/LangChain-121D33.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADASURBVHgBjZLNDYJAEIXfLgUQOtAOxA6wBDvQErQD7UA6wA6kA+xAOoAOeB8ha9Yf4r7kZWd35ptJZhbIRIaX5ZaXxUzLYz'+'/VwkSMG8wLu4XumGDEwKuXGHuVxS3a7lGRB9LZnFGuJukqex3ZYBkv+Ii3RDJBiFQbyGKEOO8wmOBH5+mQvENEDGiL+MRGSSsUoJ+W4AbYH6SNGrxJ2D8Onlfl0loFviS4A9ZxT8H+9Gyw6FC6yFb/+cJHvwb8vJMVBek4zvgv+gV/RnwZJruL0QAAAABJRU5ErkJggg==)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2.svg?style=for-the-badge&logo=google&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white)
 
 ### Development
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
